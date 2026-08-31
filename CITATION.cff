@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Persian-Rug Substrates and Multi-Sector Curvature"
+message: "If you use these notes, please cite them as below."
+type: dataset
+authors:
+  - family-names: Mamun
+    given-names: Syed Muntasir
+    orcid: "https://orcid.org/0000-0001-6845-2853"
+date-released: "2026-08-31"
+version: "2.0"
+license: "CC-BY-4.0"
+url: "https://github.com/drmuntasir/ksccn-persian-rug-substrates"
+references:
+  - type: article
+    title: "Persian-rug substrates and multi-sector curvature: an anatomical review of the coming substrate crisis in quantum computing"
+    authors:
+      - family-names: Mamun
+        given-names: Syed Muntasir
+    year: 2026
+    journal: KSCCN
+    volume: "I"
+  - type: article
+    title: "A toy rug: three sectors, two themes, and a multifractal error measure on a spin chain"
+    authors:
+      - family-names: Mamun
+        given-names: Syed Muntasir
+    year: 2026
+    journal: KSCCN
+    volume: "II"
